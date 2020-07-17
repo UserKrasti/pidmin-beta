@@ -21,5 +21,15 @@ php 7.1+
 
 
 Credits:
+
 http://web-console.org/
+
 Ubuntu, Debian logos
+
+FontAwesome
+
+https://icons8.com/
+
+https://github.com/azproduction/jquery.notification
+
+Random open-source CSS styles
