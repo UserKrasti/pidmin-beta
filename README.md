@@ -18,3 +18,8 @@ Rus:
 Требования:
 php 7.1+
 Поддержка top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release (по умолчанию есть в любой версии Raspbian)
+
+
+Credits:
+http://web-console.org/
+Ubuntu, Debian logos
