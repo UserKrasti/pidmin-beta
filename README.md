@@ -8,7 +8,7 @@ Web Admin Panel (WAP) for RaspberryPi (Linux)
 
 Requirements:
 php 7.1+
-Support for top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release (any version of Raspbian is available by default)
+Support for top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release
 
 # Rus:
 1) Установите веб-сервер (apache2 например) и php последней версии.
@@ -17,7 +17,7 @@ Support for top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release (any
 
 Требования:
 php 7.1+
-Поддержка top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release (по умолчанию есть в любой версии Raspbian)
+Поддержка top, df. awk, grep, hostname, cat, ps, tail, uname, lsb-release
 
 
 # Credits:
