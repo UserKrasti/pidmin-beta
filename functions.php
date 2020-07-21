@@ -74,7 +74,7 @@ function getHost(){
 }
 
 function getIP(){
-	return trim(shell_exec("hostname -I | awk '{print $1}'"));
+	return $_SERVER['SERVER_ADDR'];
 }
 
 function getProcesses(){

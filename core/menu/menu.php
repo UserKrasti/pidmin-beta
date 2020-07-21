@@ -42,16 +42,6 @@
 	<span class="text-menu">Command Line</span>
 	</a> 
 
-	<!--<a id="fm_a" target="pFrame" onclick="selectFM()" href="/fm.page.php">
-	<img class="icon" src="/assets/folder-icon.png">
-	<span class="text-menu">File Manager</span>
-	</a>-->
-
-	<a id="tm_a" target="pFrame" onclick="selectTM()" href="/taskmgr.page.php">
-	<img class="icon" src="/assets/tasks-icon.png">
-	<span class="text-menu">Task Manager</span>
-	</a> 
-
 	<div class="menu-capt">Web</div>
 	<a id="web_a" target="pFrame" onclick="selectWeb()" href="/web.page.php">
 	<img class="icon" src="/assets/web-icon.png">
